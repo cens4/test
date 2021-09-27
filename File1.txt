@@ -1,4 +1,3 @@
-testing line
 testing file
 commit test
 test
